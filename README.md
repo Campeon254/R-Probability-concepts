@@ -21,6 +21,7 @@ A recent national study showed that approximately 44.7% of college students have
 X is a binomial distribution.
 A binomial distribution is a disrete probability distribution that models the number of outcomes in a sequence of fixed independent experiments (the sample size of 31) where each experiment has only two possible outcomes: success and failure.
 In this case, there are only two possible outcomes: success - the students using Wikipedia and failure - the students who fail to use Wikipedea as a source of information for their term papers.
+next statement
 ```
 
 ## Question 2
